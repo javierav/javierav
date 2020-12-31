@@ -13,11 +13,18 @@ usado [@aws][aws] y [@digitalocean][digitalocean].
 Soy [cordobés][cordoba] de nacimiento y [granaíno][granada] de adopción, y trabajo en remoto para [@famaex][famaex], una
 startup nacida para revolucionar el mundo del *"Facility Management"* en España.
 
+
+### Blog
+
+* [De Mailgun a Amazon Simple Email Service](blog/2020-12-31-de-mailgun-a-amazon-simple-email-service.md) - 31/12/2020
+
+
 ### Redes sociales
 
 [![Linkedin](https://img.shields.io/badge/javierarandavaro-1866C2?style=flat-square&logo=linkedin)][linkedin]
 &nbsp;
 [![Instagram](https://img.shields.io/badge/javiarandav-b23A95?style=flat-square&logo=instagram&logoColor=white)][instagram]
+
 
 [ruby]: https://github.com/ruby "Ruby"
 [rails]: https://github.com/rails "Ruby on Rails"
