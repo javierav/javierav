@@ -24,12 +24,12 @@ I'm **Javier Aranda**, [@ruby][ruby] / [@rails][rails] developer with 10 years o
 * 2011/03 - 2020/09 [@nosolosoftware][nosolosoftware]
 
 
-### Personal blog
+### Blog
 
 * https://aranda.dev
 
 
-### Redes sociales
+### Social
 
 [![Linkedin](https://img.shields.io/badge/javierarandavaro-1866C2?style=flat-square&logo=linkedin)][linkedin]
 &nbsp;
