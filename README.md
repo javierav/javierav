@@ -5,6 +5,7 @@ I'm **Javier Aranda**, [@ruby][ruby] / [@rails][rails] developer with 10 years o
 
 ### Stack
 
+* Frameworks: [@hotwire][hotwire] (stimulus & turbo)
 * Databases: [@postgres][postgres] | [@mysql][mysql]
 * Pub/Sub: [@redis][redis]
 * Caché: [@memcached][memcached]
@@ -38,6 +39,7 @@ I'm **Javier Aranda**, [@ruby][ruby] / [@rails][rails] developer with 10 years o
 
 [ruby]: https://github.com/ruby "Ruby"
 [rails]: https://github.com/rails "Ruby on Rails"
+[hotwire]: https://github.com/hotwired "Hotwire"
 [vuejs]: https://github.com/vuejs "Vue.js"
 [angular]: https://github.com/angular "Angular"
 [emberjs]: https://github.com/emberjs "Ember.js"
