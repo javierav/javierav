@@ -9,7 +9,7 @@ I'm **Javier Aranda**, [@ruby][ruby] / [@rails][rails] developer with 10 years o
 * Databases: [@postgres][postgres] | [@mysql][mysql]
 * Pub/Sub: [@redis][redis]
 * Caché: [@memcached][memcached]
-* Devops: @capistrano][capistrano] | [@docker][docker] | [@dokku][dokku] | [@ubuntu][ubuntu] | [@heroku][heroku]
+* Devops: [@capistrano][capistrano] | [@docker][docker] | [@dokku][dokku] | [@ubuntu][ubuntu] | [@heroku][heroku]
 * Infraestructure: [@ovh][ovh] | [@aws][aws] | [@digitalocean][digitalocean]
 
 
