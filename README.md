@@ -1,22 +1,32 @@
-### ¡Hola! &#128075;&#127996;
+### Hi! &#128075;&#127996;
 
-Soy **Javier Aranda**, desarrollador [@ruby][ruby] y [@rails][rails] con 10 años de experiencia.
-
-He trabajado muchos años de fullstack con [@vuejs][vuejs], [@angular][angular] y [@emberjs][emberjs], aunque ahora estoy
-centrado sólo en backend usando [@postgres][postgres] como base de datos y [@redis][redis] para pub/sub, aunque también
-he manejado [@mongodb][mongodb], [@mysql][mysql] y [@memcached][memcached].
-
-Me gusta ser *devops*, por lo que [@capistrano][capistrano], [@docker][docker], [@dokku][dokku], [@ubuntu][ubuntu] o
-[@heroku][heroku] no son ningún problema. Y a nivel de infraestructura suelo trabajar con [@ovh][ovh], aunque también he
-usado [@aws][aws] y [@digitalocean][digitalocean].
-
-Soy [cordobés][cordoba] de nacimiento y [granaíno][granada] de adopción, y trabajo en remoto para [@famaex][famaex], una
-startup nacida para revolucionar el mundo del *"Facility Management"* en España.
+I'm **Javier Aranda**, [@ruby][ruby] / [@rails][rails] developer with 10 years of experience.
 
 
-### Blog
+### Stack
 
-* [De Mailgun a Amazon Simple Email Service](blog/2020-12-31-de-mailgun-a-amazon-simple-email-service.md) - 31/12/2020
+* Databases: [@postgres][postgres] | [@mysql][mysql]
+* Pub/Sub: [@redis][redis]
+* Caché: [@memcached][memcached]
+* Devops: @capistrano][capistrano] | [@docker][docker] | [@dokku][dokku] | [@ubuntu][ubuntu] | [@heroku][heroku]
+* Infraestructure: [@ovh][ovh] | [@aws][aws] | [@digitalocean][digitalocean]
+
+
+### Also known
+
+* Frameworks: [@vuejs][vuejs] | [@angular][angular] | [@emberjs][emberjs]
+* Databases: [@mongodb][mongodb]
+
+
+### Employers
+
+* 2020/09 - today [@famaex][famaex]
+* 2011/03 - 2020/09 [@nosolosoftware][nosolosoftware]
+
+
+### Personal blog
+
+* https://aranda.dev
 
 
 ### Redes sociales
@@ -44,8 +54,7 @@ startup nacida para revolucionar el mundo del *"Facility Management"* en España
 [ovh]: https://github.com/ovh "OVH"
 [aws]: https://github.com/aws "Amazon Web Services"
 [digitalocean]: https://github.com/digitalocean "DigitalOcean"
-[cordoba]: https://es.wikipedia.org/wiki/C%C3%B3rdoba_(Espa%C3%B1a) "Córdoba (España)"
-[granada]: https://es.wikipedia.org/wiki/Granada "Granada (España)"
 [famaex]: https://github.com/famaex "Famaex"
+[nosolosoftware]: https://github.com/nosolosoftware "NoSoloSoftware"
 [linkedin]: https://www.linkedin.com/in/javierarandavaro "Linkedin: javierarandavaro"
 [instagram]: https://www.instagram.com/javiarandav "Instagram: javiarandav"
