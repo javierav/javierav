@@ -1,6 +1,6 @@
 ### Hi! &#128075;&#127996;
 
-I'm **Javier Aranda**, [@ruby][ruby] / [@rails][rails] developer with 10 years of experience.
+I'm **Javier Aranda**, [@ruby][ruby] / [@rails][rails] developer since 2010.
 
 
 ### Stack
@@ -25,7 +25,7 @@ I'm **Javier Aranda**, [@ruby][ruby] / [@rails][rails] developer with 10 years o
 * 2011/03 - 2020/09 [@nosolosoftware][nosolosoftware]
 
 
-### Blog
+### Website
 
 * https://aranda.dev
 
