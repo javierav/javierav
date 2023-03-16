@@ -5,18 +5,22 @@ I'm **Javier Aranda**, [@ruby][ruby] / [@rails][rails] developer since 2010.
 
 ### Stack
 
-* Frameworks: [@hotwire][hotwire] (stimulus & turbo)
+* Frameworks: [@hotwire][hotwired] (stimulus & turbo)
 * Databases: [@postgres][postgres] | [@mysql][mysql]
 * Pub/Sub: [@redis][redis]
-* Caché: [@memcached][memcached]
-* Devops: [@capistrano][capistrano] | [@docker][docker] | [@dokku][dokku] | [@ubuntu][ubuntu] | [@heroku][heroku]
-* Infraestructure: [@ovh][ovh] | [@aws][aws] | [@digitalocean][digitalocean]
+* Queues: [@sidekiq][sidekiq]
+* Devops: [@ubuntu][ubuntu] | [@docker][docker] | [@dokku][dokku]
+* Infraestructure: [@ovh][ovh] | [@aws][aws]
+* SaaS: [@airbrake][airbrake] | [@postmark][postmark]
 
 
 ### Also known
 
 * Frameworks: [@vuejs][vuejs] | [@angular][angular] | [@emberjs][emberjs]
 * Databases: [@mongodb][mongodb]
+* Caché: [@memcached][memcached]
+* Devops: [@capistrano][capistrano] | [@heroku][heroku]
+* Infraestructure: [@digitalocean][digitalocean]
 
 
 ### Employers
@@ -39,7 +43,7 @@ I'm **Javier Aranda**, [@ruby][ruby] / [@rails][rails] developer since 2010.
 
 [ruby]: https://github.com/ruby "Ruby"
 [rails]: https://github.com/rails "Ruby on Rails"
-[hotwire]: https://github.com/hotwired "Hotwire"
+[hotwired]: https://github.com/hotwired "Hotwire"
 [vuejs]: https://github.com/vuejs "Vue.js"
 [angular]: https://github.com/angular "Angular"
 [emberjs]: https://github.com/emberjs "Ember.js"
@@ -60,3 +64,6 @@ I'm **Javier Aranda**, [@ruby][ruby] / [@rails][rails] developer since 2010.
 [nosolosoftware]: https://github.com/nosolosoftware "NoSoloSoftware"
 [linkedin]: https://www.linkedin.com/in/javierarandavaro "Linkedin: javierarandavaro"
 [instagram]: https://www.instagram.com/javiarandav "Instagram: javiarandav"
+[sidekiq]: https://github.com/sidekiq "Sidekiq"
+[airbrake]: https://github.com/airbrake "Airbrake"
+[postmark]: https://postmarkapp.com "Postmark"
